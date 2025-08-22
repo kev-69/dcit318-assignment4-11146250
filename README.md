@@ -150,5 +150,4 @@ _(Screenshots would be included here showing all working features as requested i
 ## Author
 
 Student ID: 11146250
-Course: DCIT 318 - Database Programming
-Assignment: Assignment 4 - Windows Forms Database Applications
+Course: DCIT 318 - PROGRAMMING II
